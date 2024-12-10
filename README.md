@@ -39,10 +39,18 @@ OnlyLayer | Next-Gen Consumer Blockchain Built for everyone. Fast, secure, and s
    ```bash
    npm run start
    ```
-5. Additional Feature: send faucet to existing address
+5. Additional Feature: 
+
+- send faucet to existing address
+
     ```bash
     npm run faucet
     ```
+- Auto Deploy simple contract and interact
+   ```bash
+   npm run deploy
+   ```
+
 
 ## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
